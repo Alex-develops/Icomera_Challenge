@@ -1,0 +1,27 @@
+("deviceCount": 1, "mode": 3, "type": "UnitPoint", "time": "1642433001", "position": {"longitude": -0.109398, "altitude": 50.6, "latitude": 51.583582, "type": "GeoPosition"}, "system_ID": "2001387124", "system_name": "GreatNorthern387124", "age": "1", "cmg": 155.77, "numberOfSatellites": 8, "system": "2001387124", "speed": 0.0)
+
+("deviceCount": 1, "mode": 3, "type": "UnitPoint", "time": "1642433002", "position": {"longitude": -0.109398, "altitude": 50.6, "latitude": 51.583582, "type": "GeoPosition"}, "system_ID": "2001387124", "system_name": "GreatNorthern387124", "age": "1", "cmg": 148.01, "numberOfSatellites": 8, "system": "2001387124", "speed": 0.01) 
+
+("deviceCount": 1, "mode": 3, "type": "UnitPoint", "time": "1642433003", "position": {"longitude": -0.109398, "altitude": 50.6, "latitude": 51.583582, "type": "GeoPosition"}, "system_ID": "2001387124", "system_name": "GreatNorthern387124", "age": "1", "cmg": 60.18, "numberOfSatellites": 8, "system": "2001387124", "speed": 0.005) 
+
+("deviceCount": 1, "mode": 3, "type": "UnitPoint", "time": "1642433004", "position": {"longitude": -0.109398, "altitude": 50.6, "latitude": 51.583582, "type": "GeoPosition"}, "system_ID": "2001387124", "system_name": "GreatNorthern387124", "age": "1", "cmg": 51.21, "numberOfSatellites": 8, "system": "2001387124", "speed": 0.005)
+
+("deviceCount": 1, "mode": 3, "type": "UnitPoint", "time": "1642433005", "position": {"longitude": -0.109398, "altitude": 50.6, "latitude": 51.583582, "type": "GeoPosition"}, "system_ID": "2001387124", "system_name": "GreatNorthern387124", "age": "1", "cmg": 76.92, "numberOfSatellites": 8, "system": "2001387124", "speed": 0.01)
+
+("deviceCount": 1, "mode": 3, "type": "UnitPoint", "time": "1642433006", "position": {"longitude": -0.109398, "altitude": 50.6, "latitude": 51.583582, "type": "GeoPosition"}, "system_ID": "2001387124", "system_name": "GreatNorthern387124", "age": "1", "cmg": 272.35, "numberOfSatellites": 8, "system": "2001387124", "speed": 0.005)
+
+("deviceCount": 1, "mode": 3, "type": "UnitPoint", "time": "1642433007", "position": {"longitude": -0.109398, "altitude": 50.6, "latitude": 51.583582, "type": "GeoPosition"}, "system_ID": "2001387124", "system_name": "GreatNorthern387124", "age": "1", "cmg": 97.38, "numberOfSatellites": 8, "system": "2001387124", "speed": 0.005)
+
+("deviceCount": 1, "mode": 3, "type": "UnitPoint", "time": "1642433008", "position": {"longitude": -0.109398, "altitude": 50.6, "latitude": 51.583582, "type": "GeoPosition"}, "system_ID": "2001387124", "system_name": "GreatNorthern387124", "age": "1", "cmg": 189.64, "numberOfSatellites": 8, "system": "2001387124", "speed": 0.005) 
+
+("deviceCount": 1, "mode": 3, "type": "UnitPoint", "time": "1642433009", "position": {"longitude": -0.109398, "altitude": 50.6, "latitude": 51.583582, "type": "GeoPosition"}, "system_ID": "2001387124", "system_name": "GreatNorthern387124", "age": "1", "cmg": 140.37, "numberOfSatellites": 8, "system": "2001387124", "speed": 0.01) 
+
+("deviceCount": 1, "mode": 3, "type": "UnitPoint", "time": "1642433010", "position": {"longitude": -0.109398, "altitude": 50.6, "latitude": 51.583582, "type": "GeoPosition"}, "system_ID": "2001387124", "system_name": "GreatNorthern387124", "age": "1", "cmg": 218.6, "numberOfSatellites": 8, "system": "2001387124", "speed": 0.005)
+
+("deviceCount": 1, "mode": 3, "type": "UnitPoint", "time": "1642433012", "position": {"longitude": -0.109398, "altitude": 50.6, "latitude": 51.583582, "type": "GeoPosition"}, "system_ID": "2001387124", "system_name": "GreatNorthern387124", "age": "0", "cmg": 13.9, "numberOfSatellites": 8, "system": "2001387124", "speed": 0.005)
+
+("deviceCount": 1, "mode": 3, "type": "UnitPoint", "time": "1642433013", "position": {"longitude": -0.109398, "altitude": 50.6, "latitude": 51.583582, "type": "GeoPosition"}, "system_ID": "2001387124", "system_name": "GreatNorthern387124", "age": "1", "cmg": 163.68, "numberOfSatellites": 8, "system": "2001387124", "speed": 0.01)
+
+("deviceCount": 1, "mode": 3, "type": "UnitPoint", "time": "1642433014", "position": {"longitude": -0.109398, "altitude": 50.6, "latitude": 51.583582, "type": "GeoPosition"}, "system_ID": "2001387124", "system_name": "GreatNorthern387124", "age": "1", "cmg": 328.09, "numberOfSatellites": 8, "system": "2001387124", "speed": 0.005)
+
+("deviceCount": 1, "mode": 3, "type": "UnitPoint", "time": "1642433015", "position": {"longitude": -0.109398, "altitude": 50.6, "latitude": 51.583582, "type": "GeoPosition"}, "system_ID": "2001387124", "system_name": "GreatNorthern387124", "age": "1", "cmg": 193.89, "numberOfSatellites": 8, "system": "2001387124", "speed": 0.005}], "events": "[]")
